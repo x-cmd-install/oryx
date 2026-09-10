@@ -12,6 +12,17 @@
 x install oryx
 ```
 
+## Code insight
+
+Total: **9,680** lines of code across **67** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 9,537 | 95 | 1,068 | 57 |
+| Toml | 128 | 0 | 15 | 7 |
+| Svg | 15 | 3 | 0 | 1 |
+| Markdown | 0 | 116 | 73 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/pythops/oryx>
@@ -23,16 +34,9 @@ x install oryx
 - **Last commit**: 2026-08-28
 - **Assets in release**: 2
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [oryx-aarch64-unknown-linux-musl](https://github.com/pythops/oryx/releases/download/v0.8.0/oryx-aarch64-unknown-linux-musl) | 3.7 MiB | `native/linux/arm64/musl` |
-| [oryx-x86_64-unknown-linux-musl](https://github.com/pythops/oryx/releases/download/v0.8.0/oryx-x86_64-unknown-linux-musl) | 4.2 MiB | `native/linux/x64/musl` |
-
 ## Popularity
 
-- **Stars**: 2,577 · **Forks**: 74 · **Open issues**: 35 · **Contributors**: 8
+- **Stars**: 2,578 · **Forks**: 74 · **Open issues**: 35 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -43,19 +47,18 @@ x install oryx
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 3 |
 | 90d | 2026-06-12 | 0 | 1 | 0 | 1 | 0 | 3 |
+| last180d | 2026-03-14 | 0 | 1 | 0 | 1 | 0 | 4 |
 | 360d | 2025-09-15 | 1 | 6 | 0 | 3 | 1 | 10 |
+| last720d | 2024-09-20 | 9 | 34 | 0 | 19 | 4 | 72 |
 
-## Code size
+## Release assets
 
-Total: **9,680** lines of code across **67** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 9,537 | 95 | 1,068 | 57 |
-| Toml | 128 | 0 | 15 | 7 |
-| Svg | 15 | 3 | 0 | 1 |
-| Markdown | 0 | 116 | 73 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [oryx-aarch64-unknown-linux-musl](https://github.com/pythops/oryx/releases/download/v0.8.0/oryx-aarch64-unknown-linux-musl) | 3.7 MiB | `native/linux/arm64/musl` |
+| [oryx-x86_64-unknown-linux-musl](https://github.com/pythops/oryx/releases/download/v0.8.0/oryx-x86_64-unknown-linux-musl) | 4.2 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -66,4 +69,4 @@ Install metadata for oryx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:18:38Z._
