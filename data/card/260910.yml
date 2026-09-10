@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:00:26Z
+  collectedAt: 2026-09-10T20:18:31Z
 timeline:
   created: 2024-09-01
   lastCommit: 2026-08-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-04
   lastPrerelease: 
 popularity:
-  star: 2577
+  star: 2578
   watcher: 19
   fork: 74
   release: 11
@@ -84,7 +84,7 @@ total:
   commit: 95
 ---
 path: /home/runner/.x-repo/github.com/pythops/oryx
-collectedAt: 2026-09-10T16:00:27Z
+collectedAt: 2026-09-10T20:18:33Z
 loc:
   Rust:
     code: 9537
