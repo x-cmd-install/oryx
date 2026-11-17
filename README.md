@@ -37,22 +37,22 @@ Total: **9,675** lines of code across **68** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,616 · **Forks**: 76 · **Open issues**: 35 · **Contributors**: 8
+- **Stars**: 2,614 · **Forks**: 76 · **Open issues**: 34 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 40 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 5 · **Commits**: 96
+- **Releases**: 11 · **Merged PRs**: 40 · **Open PRs**: 0 · **Closed issues**: 29 · **Open issues**: 5 · **Commits**: 96
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-20 | 0 | 1 | 0 | 1 | 0 | 5 |
-| 360d | 2025-11-21 | 1 | 5 | 0 | 3 | 0 | 9 |
-| last720d | 2024-11-26 | 7 | 23 | 0 | 18 | 4 | 56 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-21 | 0 | 1 | 0 | 0 | 0 | 5 |
+| 360d | 2025-11-22 | 1 | 5 | 0 | 2 | 0 | 9 |
+| last720d | 2024-11-27 | 7 | 23 | 0 | 17 | 4 | 56 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for oryx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:20:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:54:08Z._
